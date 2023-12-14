@@ -1,5 +1,5 @@
 # Deep Convolutional Pooling Transformer for Deepfake Detection (DCPT)
-Source code of our paper "Deep Convolutional Pooling Transformer for Deepfake Detection".
+Source code of the paper "Deep Convolutional Pooling Transformer for Deepfake Detection".
 
 ## To test the model
 ```
