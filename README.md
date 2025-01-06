@@ -1,5 +1,5 @@
 # Deep Convolutional Pooling Transformer for Deepfake Detection (DCPT)
-Source code of the paper "Deep Convolutional Pooling Transformer for Deepfake Detection".
+Source code of the paper [Deep Convolutional Pooling Transformer for Deepfake Detection](https://arxiv.org/pdf/2209.05299) accepted to ACM Transactions on Multimedia Computing, Communications and Applications (TOMM).
 
 ## To test the model
 ```
@@ -28,4 +28,19 @@ pip install -U albumentations[imgaug]
 pip install einops
 pip install timm
 pip install kornia
+```
+
+## Citation
+If you find our work useful, please properly cite the following:
+```
+@article{DCPT2023Wang,
+author = {Wang, Tianyi and Cheng, Harry and Chow, Kam Pui and Nie, Liqiang},
+title = {Deep Convolutional Pooling Transformer for Deepfake Detection},
+year = {2023},
+volume = {19},
+number = {6},
+issn = {1551-6857},
+doi = {10.1145/3588574},
+journal = {ACM Trans. Multimedia Comput. Commun. Appl.}
+}
 ```
